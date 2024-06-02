@@ -1,3 +1,5 @@
+package String;
+
 public class Test_split {
   public static void main(String[] args) {
     String a = "a:b:c:d";
