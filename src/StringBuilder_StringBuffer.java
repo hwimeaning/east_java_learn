@@ -1,4 +1,4 @@
-public class Test_StringBuilder_StringBuffer {
+public class StringBuilder_StringBuffer {
   public static void main(String[] args) {
 
     StringBuilder sb = new StringBuilder();

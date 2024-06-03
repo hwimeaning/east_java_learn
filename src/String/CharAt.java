@@ -1,6 +1,6 @@
 package String;
 
-public class Test_charAt {
+public class CharAt {
 
   public static void main(String[] args) {
     String a = "Hello World";

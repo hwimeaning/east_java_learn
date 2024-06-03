@@ -1,6 +1,6 @@
 package Operator;
 
-public class Test_unaryOperator {
+public class UnaryOperator {
   public static void main(String[] args) {
 
     int positive = 10;

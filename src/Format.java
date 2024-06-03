@@ -1,4 +1,4 @@
-public class Test_format {
+public class Format {
   public static void main(String[] args) {
 
    String name1 = "Tim";

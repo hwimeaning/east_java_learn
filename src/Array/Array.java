@@ -1,6 +1,6 @@
 package Array;
 
-public class Test_Array {
+public class Array {
     public static void main(String[] args) {
 
         // 배열 선언
